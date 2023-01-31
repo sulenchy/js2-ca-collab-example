@@ -1,0 +1,15 @@
+html,body {
+    box-sizing: content-box;
+}
+
+.car-list-body {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+
+div {
+    width: 33%;
+    box-shadow: 1px 1px 1px 1px #ccc;
+}
+
